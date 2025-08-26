@@ -42,7 +42,7 @@ A passionate **Full-Stack Developer | Laravel | WordPress | PHP | JavaScript** f
 ## 📫 How to reach me
 - 📧 Email: [coadersworldandais@gmail.com](mailto:coadersworldandais@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ahmar-iftikhar](https://www.linkedin.com/in/ahmar-iftikhar/)  
-# 🖥️ Portfolio: [ipd-solutions.com](https://ipd-solutions.com/)  
+<!-- 🖥️ Portfolio: [ipd-solutions.com](https://ipd-solutions.com/)  -->
 - 🛠️ GitHub: [AhmarIftikhar123](https://github.com/AhmarIftikhar123)  
 
 ---

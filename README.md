@@ -1,3 +1,6 @@
+<!-- Web Dev Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
 # 💫 Assalamualaikum 👋, I'm Ahmar Iftikhar  
 
 A passionate **Full-Stack Developer | Laravel | WordPress | PHP | JavaScript** from Pakistan  
@@ -93,7 +96,9 @@ I craft seamless UIs, but my journey started in **Medical Sciences** before divi
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
+<!-- ### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=AhmarIftikhar123&limit=5&theme=dark&combine_all_yearly_contributions=true&no_cache=true)
+-->
 [![](https://visitcount.itsvg.in/api?id=AhmarIftikhar123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

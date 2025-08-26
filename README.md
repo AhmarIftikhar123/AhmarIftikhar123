@@ -1,3 +1,81 @@
+# 💫 Hi! (Assalamualaikum) 👋, I'm Ahmar Iftikhar  
+
+A passionate **Full-Stack Developer | Laravel | WordPress | PHP | JavaScript** from Pakistan  
+
+📩 **Email Me:** [coadersworldandais@gmail.com](mailto:coadersworldandais@gmail.com) for Collaboration/Projects or Anything Else 😊😊  
+
+---
+
+## 🔭 I’m currently working on
+- **[Durable Solutions Platform – Mozambique](https://ipd-solutions.com/)** *(Jul 2025 – Aug 2025)*  
+  A Laravel-based web application supporting humanitarian efforts.  
+  - Role-based access control with Spatie  
+  - Dynamic chart dashboards (theme-aware)  
+  - UI enhancements with GSAP  
+
+---
+
+## 🌱 I’m currently learning
+- Advanced **GSAP animations**  
+- **Scalable Laravel architecture**  
+- **Docker & DevOps practices** for smoother deployments  
+
+---
+
+## 👯 I’m looking to collaborate on
+- Full-Stack projects (**Laravel, WordPress, PHP, JavaScript**)  
+- Performance-driven, scalable, and **clean UI/UX** applications  
+
+---
+
+## 🤔 I’m looking for help with
+- Advanced **Docker & DevOps workflows**  
+- Optimized deployment pipelines  
+
+---
+
+## 💬 Ask me about
+- **Laravel | WordPress Theme Development | PHP | JavaScript | GSAP | Responsive UI Design**  
+
+---
+
+## 📫 How to reach me
+- 📧 Email: [coadersworldandais@gmail.com](mailto:coadersworldandais@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/ahmar-iftikhar](https://www.linkedin.com/in/ahmar-iftikhar/)  
+- 🖥️ Portfolio: [ipd-solutions.com](https://ipd-solutions.com/)  
+- 🛠️ GitHub: [AhmarIftikhar123](https://github.com/AhmarIftikhar123)  
+
+---
+
+## 😄 Pronouns
+**He/Him**
+
+---
+
+## ⚡ Fun fact
+I craft seamless UIs, but my journey started in **Medical Sciences** before diving into tech!  
+
+---
+
+## 🏗️ Previous Projects
+
+### 🚀 [Durable Solutions Platform – Mozambique](https://ipd-solutions.com/) *(Laravel, MySQL, GSAP)*  
+📅 **Jul 2025 – Aug 2025**  
+- Designed a full-stack Laravel web application to support humanitarian efforts in Mozambique.  
+- Enhanced UI with mobile and hover tooltips using GSAP.  
+- Implemented role-based access control with Spatie packages.  
+- Built theme-aware dashboards with dynamic charts.  
+
+---
+
+### 🎉 [Event Carts Perth – Luxury WordPress Site](https://eventcartsperth.com.au/) *(WordPress, Elementor, Blocksy)*  
+📅 **May 2025 – Jul 2025**  
+- Designed a **white-gold themed luxury website** using Elementor & Blocksy.  
+- Created **custom gallery** and **service sections**.  
+- Optimized the **mobile booking experience**.  
+- Ensured **SEO-friendly & responsive design**.  
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmar.iftikhar.hussain) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmariftikharhussain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmar-iftikhar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AhmarIftikharButtIftikharHussa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coadersworldandais@gmail.com) 

@@ -1,4 +1,4 @@
-# 💫 Hi! (Assalamualaikum) 👋, I'm Ahmar Iftikhar  
+# 💫 Assalamualaikum 👋, I'm Ahmar Iftikhar  
 
 A passionate **Full-Stack Developer | Laravel | WordPress | PHP | JavaScript** from Pakistan  
 

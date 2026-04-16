@@ -1,5 +1,5 @@
 <!-- Web Dev Banner -->
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,100:4c1d95&height=220&text=Ahmar%20Iftikhar&fontColor=ffffff)
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 # 💫 Hi! 👋, I'm Ahmar Iftikhar
 
 **Full-Stack Engineer** crafting scalable web apps with Laravel, React & WordPress — turning complex requirements into clean, high-performance products.

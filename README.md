@@ -51,11 +51,11 @@
 ---
 ## 🔭 Currently Working On
 
-- **[LynkEmpire – Inspection Management SaaS](https://lynkempire.com/)** *(Aug 2025 – Present)*
-  A Spectora-style inspection platform built with Laravel, Tailwind, jQuery & Stripe.
-  - Dynamic inspection templates & PDF report generation
-  - Stripe payments, email notifications, full RBAC
-  - AJAX-powered reload-free UI
+- **[NomadTaxCalc – Multi-Country Tax Calculator](https://nomadtaxcalc.com/)** *(Nov 2025 – Present)*
+  A SaaS tax engine for digital nomads and expats, supporting 150+ countries.
+  - Advanced tax calculations (FEIE, Foreign Tax Credit, treaty logic)
+  - Scenario comparison tool with real-time insights
+  - Scalable Laravel + React architecture with dynamic data handling
 
 ---
 

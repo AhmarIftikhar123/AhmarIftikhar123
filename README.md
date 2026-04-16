@@ -10,13 +10,11 @@
 📩 **Email Me:** [coadersworldandais@gmail.com](mailto:coadersworldandais@gmail.com)
 
 ---
-
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmar.iftikhar.hussain)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmariftikharhussain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmar-iftikhar/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AhmarIftikharButtIftikharHussa)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coadersworldandais@gmail.com)
+## 🚀 Featured Work
+- 🧮 [NomadTaxCalc](https://nomadtaxcalc.com/) → Multi-country tax engine (SaaS)
+- 🏢 [LynkEmpire](https://canteen.pk/) → Inspection management SaaS
+- 🌍 [PEGDI Platform](https://pegdiap.com/login) → Humanitarian SaaS system
+- 🎪 [Event Carts Perth](https://eventcartsperth.com.au/) → Business website
 
 ---
 
@@ -43,7 +41,14 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
+## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmar.iftikhar.hussain)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmariftikharhussain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmar-iftikhar/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AhmarIftikharButtIftikharHussa)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coadersworldandais@gmail.com)
 
+---
 ## 🔭 Currently Working On
 
 - **[LynkEmpire – Inspection Management SaaS](https://lynkempire.com/)** *(Aug 2025 – Present)*
@@ -54,40 +59,11 @@
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **GSAP animations & scroll-driven interactions**
-- **Scalable Laravel architecture** (DDD, service layers)
-- **Docker & DevOps practices** for CI/CD pipelines
 
----
-
-## 👯 Looking to Collaborate On
-- Full-Stack products (**Laravel, React, WordPress, PHP, JavaScript**)
-- Performance-driven, scalable, and **clean UI/UX** applications
-
----
-
-## 💬 Ask Me About
-**Laravel · WordPress Theme & Plugin Dev · PHP · React · JavaScript · GSAP · Responsive UI Design**
-
----
-
-## 📫 How to Reach Me
-- 📧 [coadersworldandais@gmail.com](mailto:coadersworldandais@gmail.com)
-- 💼 [linkedin.com/in/ahmar-iftikhar](https://www.linkedin.com/in/ahmar-iftikhar/)
-- 🌐 [ahmarfullstack.dev](https://ahmarfullstack.dev)
-- 🛠️ [github.com/AhmarIftikhar123](https://github.com/AhmarIftikhar123)
-
----
-
-## 😄 Pronouns
-**He/Him**
-
----
-
-## ⚡ Fun Fact
-I craft seamless UIs, but my journey started in **Medical Sciences** before diving into tech!
-
+## 🤝 Open to Work
+- Freelance & contract full-stack projects
+- WordPress (custom plugins/themes) & Laravel applications
+- API integrations, performance optimization, and scalable systems
 ---
 
 ## 🏗️ Projects
@@ -106,7 +82,7 @@ A free tax liability calculator for digital nomads and expats — built end-to-e
 
 ---
 
-### 🏢 [LynkEmpire – Inspection Management Platform](https://lynkempire.com/) *(Laravel · Bootstrap · jQuery · Stripe)*
+### 🏢 [LynkEmpire – Inspection Management Platform](https://canteen.pk/) *(Laravel · Bootstrap · jQuery · Stripe)*
 📅 **Aug 2025 – Present**
 Full Spectora-style inspection SaaS with dynamic templates, PDF reports, scheduling & a complete admin panel.
 - Responsive UI with AJAX for smooth, reload-free interactions
@@ -151,23 +127,3 @@ Custom WordPress plugin + theme built with React, Tailwind CSS & `@wordpress/scr
 | [Stairs and Treads](https://ahmarfullstack.dev/projects/4) | WordPress · WooCommerce · ACF | Timber products showcase/catalog |
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AhmarIftikhar123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AhmarIftikhar123&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmarIftikhar123&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmarIftikhar123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=6)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-[![](https://visitcount.itsvg.in/api?id=AhmarIftikhar123&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
